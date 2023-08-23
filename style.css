@@ -12,8 +12,7 @@ header{
   width: 100%;
   font-weight: bold;
   font-size: 18px;
-  box-shadow: 8px 14px 38px rgba(0, 127, 108, 0.655),
-  1px 3px 8px rgb(0, 0, 0);
+
 }
 .header-items{
   /* box-shadow: 8px 14px 38px rgba(0, 37, 74, 0.348),
